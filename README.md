@@ -1,4 +1,4 @@
-# Data Pipelines & Business Datasets (Python & Docker)
+# Data Pipelines & Automatization
 
 Este repositorio contiene proyectos y scripts orientados al **procesamiento de datos, automatización de tareas y creación de pipelines ETL/ELT**. 
 
